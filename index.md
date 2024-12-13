@@ -8,9 +8,9 @@
 
 
 
-
-    javascript
+``` javascript
 var myVar = "Hello, world!";
+```
 
 
 
